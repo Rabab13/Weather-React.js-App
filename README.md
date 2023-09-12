@@ -1,5 +1,5 @@
 # Check the App 
-# [(https://master--thunderous-churros-25a73d.netlify.app/)
+# (https://master--thunderous-churros-25a73d.netlify.app/)
 
 ]
 ## Create React app using Yarn

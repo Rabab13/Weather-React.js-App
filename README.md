@@ -1,7 +1,7 @@
 # Check the App 
-# https://react-weather-app-js.herokuapp.com/
+# [(https://master--thunderous-churros-25a73d.netlify.app/)
 
-
+]
 ## Create React app using Yarn
 
  ### `yarn create react-app app-name`
